@@ -1,0 +1,4 @@
+[32mINFO    [0m tests.test_launchBrowser&verifyTitle:test_launchBrowser&verifyTitle.py:29 Just an information
+[33mWARNING [0m tests.test_launchBrowser&verifyTitle:test_launchBrowser&verifyTitle.py:30 Its a Warning
+[31m[1mERROR   [0m tests.test_launchBrowser&verifyTitle:test_launchBrowser&verifyTitle.py:31 Did you try to divide by zero
+[31mCRITICAL[0m tests.test_launchBrowser&verifyTitle:test_launchBrowser&verifyTitle.py:32 Internet is down

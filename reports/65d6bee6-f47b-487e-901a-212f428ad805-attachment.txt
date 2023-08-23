@@ -1,0 +1,1 @@
+[32mINFO    [0m tests.test_vwologin:test_vwologin.py:34 Just an information
